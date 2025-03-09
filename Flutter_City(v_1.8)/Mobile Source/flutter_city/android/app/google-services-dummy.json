@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "604520927696",
+    "firebase_url": "https://senfcity-c5a04-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "senfcity-c5a04",
+    "storage_bucket": "senfcity-c5a04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604520927696:android:0e7c98b4a083ba61a5a9d5",
+        "android_client_info": {
+          "package_name": "com.senfcity.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604520927696-9g2r0oqhgu0gs9tf7oanrtokbodtn8rb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.senfcity.app",
+            "certificate_hash": "adce76b4d816500e939d4273e3ebf73d270ddbf9"
+          }
+        },
+        {
+          "client_id": "604520927696-4qdv85kt51skppq38vtvuhfr0kbob2f1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzU2BbYkhqVwMf-v4IIpaPH0BXKHef6n4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "604520927696-4qdv85kt51skppq38vtvuhfr0kbob2f1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
